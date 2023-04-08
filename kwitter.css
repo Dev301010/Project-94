@@ -1,0 +1,62 @@
+.info_div
+{
+	background:cornflowerblue;
+    float: none;
+    border-radius: 3px;
+}
+
+.header
+{
+	color:rgb(209, 152, 77);font-family: 'Arial';
+    font-size: 45px;
+    letter-spacing: 10px;
+}
+
+.butter {
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+}
+
+.info {
+    color:bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing:4px;
+}
+
+.queries {
+    color:cornsilk;
+    margin-bottom: 10px;
+}
+
+.container {
+    display:flex;
+    background-color:darkturquoise;
+    justify-content:center;
+}
+
+.kwitter_room {
+    margin-left: 50px;
+    text-align: center;
+}
+
+#logout {
+    margin-left: 1200px;
+    height: 50px;
+    width: 90px;
+    font-size:large;
+}
+
+.body {
+    background-color: cyan;
+}
+
+#room_name {
+    width: 600px;
+    margin-left: 385px;
+}
+
+#output {
+    background-color: white;
+}
+
